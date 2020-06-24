@@ -1,0 +1,8 @@
+{
+    "interval": 4,
+    "timeout": 4500,
+    "maxIteration": 64,
+    "useDirect": true,
+    "dieOnBoot": false,
+    "userAgent": "rainbow-roles-bot/$"
+}
